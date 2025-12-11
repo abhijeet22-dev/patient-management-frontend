@@ -1,0 +1,5 @@
+{
+  "name": "MediCare PMS",
+  "description": "A modern Patient Management System for Doctors and Medical Stores with role-based access and Firestore integration.",
+  "requestFramePermissions": []
+}
